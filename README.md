@@ -1,7 +1,7 @@
-# Demo for the oveato theme
+# Demo for the ovate theme
 
-[Demo](http://viktorsnt.github.io/oveato-demo/)
+[Demo](http://viktorsnt.github.io/ovate-demo/)
 
-Download [here](http://github.com/viktorsnt/oveato) the theme.
+Download [here](http://github.com/viktorsnt/ovate) the theme.
 
 Powered by [Ghost](http://ghost.org) and [Buster](https://github.com/axitkhurana/buster/).
