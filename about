@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    
+    <title>About</title>
+    <meta name="description" content="" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="320" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic|Open+Sans:700,400" />
+
+    
+    <meta name="generator" content="Ghost 0.4" />
+<link rel="alternate" type="application/rss+xml" title="Ovate - Demo" href="rss/index.html">
+<link rel="canonical" href="about" />
+</head>
+<body class="post-template page">
+
+  <div id="wrap">
+    <div class="container">
+      
+      
+      <header id="site-head" class="row">
+        <div id="site-head-content" class="inner col-md-6 col-md-offset-4 col-sm-offset-4">
+          
+          <a class="blog-title" href="index.html">
+            <h1>Ovate - Demo</h1>
+          </a>
+          <h2 class="blog-description">A clean, simple and responsive Ghost Theme.</h2>
+        </div>
+      </header>
+      
+      <aside class="col-md-3 col-sm-3">
+        <nav class="blog-menu">
+          <ul class="list-unstyled">
+            <li><a class="l-uppercase" href="about">About</a></li>
+            <li><a class="subscribe l-uppercase" href="rss/index.html">RSS feed</a></li>
+            <li><a class="l-uppercase" href="http://twitter.com/">Twitter</a></li>
+            <li><a class="l-uppercase" href="http://github.com/">Github</a></li>
+          </ul>
+        </nav>
+      </aside>
+
+      
+      <main class="content col-lg-5 col-md-6 col-sm-8 col-md-offset-1 col-sm-offset-1" role="main">
+        
+        
+
+<article class="post page">
+  
+    <section class="post-content">
+      <h1 id="aboutme">About me</h1>
+
+<p>Hey, my name is Jonathan Krause — I would call myself a front-end developer (you know those job titles). I am currently living in Berlin, Germany, working full-time at Edenspiekermann. I am a passionate web developer, believing in Unix philosophy form- and function-wise. I love effective and fast user interfaces that bring real value to people. I appreciate logical, user-centered design approaches. Therefore I strive to use technologies and methodologies that deliver the best possible user experience, trying to concentrate on simple, focused and concise development.</p>
+
+<p>I like tinkering with front-end performance, the latest HTML, CSS and especially JavaScript stuff. To complete the story, I want to mention that I have a degree in application development and in the past used to work in the more enterprise-oriented business. Besides that I love dogs, aquariums, nature, riding motorbikes and enjoy people that take themselves not too seriously.</p>
+
+<p>This is version three of my website. You can also have a look back at version one and version two, if interested. With version three I forced myself to write English to improve my language skills. So there are german as well as english posts on this blog.</p>
+
+<p>Feel free to send me a tweet or just drop me an email whenever you want. You can find me also on Github and occasionally on Xing or LinkedIn.</p>
+    </section>
+  
+</article>
+      </main>
+
+    </div>
+  </div>
+  
+  <footer id="site-footer">
+    <div class="container">
+      <div class="site-footer-inner text-center">
+        <!-- <section class="copyright">All content copyright <a href="/">Ovate - Demo</a> &copy; 2013 &bull; All rights reserved.</section> -->
+        <section class="poweredby">Proudly published with <a class="icon-ghost" href="http://tryghost.org">Ghost</a></section>
+      </div>
+    </div>
+  </footer>
+  
+  
+  <script src="public/jquery.js?v=3db45710b0"></script>
+
+  
+  <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="assets/js/index.js"></script>
+
+</body>
+</html>
